@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prakash Ramesh
-- 🌱 I’m currently learning k8s administration
+- 🌱 I’m currently learning k8s administration / python
 - 💞️ I’m looking to collaborate on performance engineering
 - 📫 How to reach me - prakash.ramesh@mulesoft.com
 
