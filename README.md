@@ -1,1 +1,1 @@
-## Integrating IT world with power of Mulesoft..
+## Integrating IT with power of Mulesoft..
